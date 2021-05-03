@@ -8,5 +8,3 @@
 
 nuke.pluginAddPath('./gizmos')
 nuke.pluginAddPath('./python')
-
-
